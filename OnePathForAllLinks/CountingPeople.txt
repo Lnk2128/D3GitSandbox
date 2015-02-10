@@ -1,0 +1,35 @@
+1 RIT orange
+	0Demartino
+	1Raffaelle
+2 red
+	2Difonzo
+	3Inceoglu
+	4Klofas
+	5Prudhommeaux
+	6Scales
+	7Williams
+	8Winebrake
+3 yellow
+	9Franklin
+4 green
+	10Gaustad
+5 grey
+	11Gears
+	12Vullo
+6 lighter green
+	13Hall
+7 light grey
+	14Marschark
+8 magic red
+	15Phelps
+9 Engineering orange
+	16Robinson
+10 blue
+	17Schneider
+
+---
+Connect Gears to everyone
+Mark to Gears
+Vullo to Gears
+
+Difonzo to non-klofas red
